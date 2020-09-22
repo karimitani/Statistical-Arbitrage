@@ -1,2 +1,2 @@
 # Statistical-Arbitrage
-statistical arbitrage strategy using pair trading 
+Statistical arbitrage strategy using pair trading 
